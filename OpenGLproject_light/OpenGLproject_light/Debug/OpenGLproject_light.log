@@ -1,8 +1,2 @@
 ﻿D:\Visual Studio\Common7\IDE\VC\VCTargets\Microsoft.CppBuild.targets(391,5): warning MSB8028: The intermediate directory (Debug\) contains files shared from another project (OpenGLproject_light.vcxproj).  This can lead to incorrect clean and rebuild behavior.
-  glad.c
-  main.cpp
-d:\opengl\projects\openglproject_light\openglproject_light\main.cpp(79): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
-d:\opengl\projects\openglproject_light\openglproject_light\main.cpp(183): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
-d:\opengl\projects\openglproject_light\openglproject_light\main.cpp(184): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
-d:\opengl\projects\openglproject_light\openglproject_light\main.cpp(188): warning C4305: 'initializing': truncation from 'double' to 'float'
   OpenGLproject_light.vcxproj -> D:\OpenGL\Projects\OpenGLproject_light\Debug\OpenGL_model.exe
